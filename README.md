@@ -1,5 +1,4 @@
-
-# COMP4082 - Autonomous Robotic Systems Coursework
+This is a repository storing the completed coursework involving research, experiments and analysis, for a module at the University of Nottingham, COMP4082 Autonomous Robotics Systems. This module introduces you to the computer science of robotics, giving you an understanding of the hardware and software principles appropriate for control and localization of autonomous mobile robots. A significant part of the module is laboratory-based, focusing on a general and powerful machine learning paradigm for robotics, i.e.: reinforcement learning.
 
 ## File Navigation
 
